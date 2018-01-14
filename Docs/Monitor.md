@@ -1,10 +1,10 @@
 # Monitor
 
-- [Team Telemetry](Monitor.md#Team-Telemetry)
-- [Live Site Telemetry](Monitor.md#Live-Site-Telemetry)
-- [Cognitive Monitoring](Monitor.md#Cognitive-Monitoring)
-- [Security Monitoring](Monitor.md#Security-Monitoring)
-- [User Telemetry](Monitor.md#User-Telemetry)
+- [Team Telemetry](Monitor.md#team-telemetry)
+- [Live Site Telemetry](Monitor.md#live-site-telemetry)
+- [Cognitive Monitoring](Monitor.md#Cognitive-monitoring)
+- [Security Monitoring](Monitor.md#security-monitoring)
+- [User Telemetry](Monitor.md#user-telemetry)
 
 ## Team Telemetry
 
