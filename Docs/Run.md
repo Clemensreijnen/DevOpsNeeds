@@ -1,10 +1,10 @@
 # Run
 
-- [IaaS](Docs/Run.md#IaaS)
-- [Container Host](Docs/Run.md#Container-Host)
-- [PaaS](Docs/Run.md#PaaS)
-- [Serverless](Docs/Run.md#Serverless)
-- [SaaS](Docs/Run.md#SaaS)
+- [IaaS](Run.md#IaaS)
+- [Container Host](Run.md#Container-Host)
+- [PaaS](Run.md#PaaS)
+- [Serverless](Run.md#Serverless)
+- [SaaS](Run.md#SaaS)
 
 ## IaaS
 
